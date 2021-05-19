@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+ <Placemark>
+ <name>Liverpool Everton Valley</name>
+ <description>Liverpool Everton Valley</description>
+ <Point>
+ <coordinates>-2.972778,53.431111,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Liverpool Lime Street</name>
+ <description>Liverpool Lime Street</description>
+ <Point>
+ <coordinates>-2.98,53.4075,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Liverpool Clayton Square</name>
+ <description>Liverpool Clayton Square</description>
+ <Point>
+ <coordinates>-2.982222,53.405278,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Liverpool Edge Lane</name>
+ <description>Liverpool Edge Lane</description>
+ <Point>
+ <coordinates>-2.908889,53.4075,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Liverpool Speke Road</name>
+ <description>Liverpool Speke Road</description>
+ <Point>
+ <coordinates>-2.886944,53.351389,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Liverpool Speke AURN</name>
+ <description>Liverpool Speke AURN</description>
+ <Point>
+ <coordinates>-2.844444,53.346389,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Castle Chambers</name>
+ <description>Castle Chambers</description>
+ <Point>
+ <coordinates>-2.99026,53.40542,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Hay Market</name>
+ <description>Hay Market</description>
+ <Point>
+ <coordinates>-2.98481,53.40896,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Central Station</name>
+ <description>Central Station</description>
+ <Point>
+ <coordinates>-2.98001,53.40446,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>St Nicholas Primary</name>
+ <description>St Nicholas Primary</description>
+ <Point>
+ <coordinates>-2.97157,53.40481,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>LIV Weather</name>
+ <description>LIV Weather</description>
+ <Point>
+ <coordinates>-2.96679,53.40544,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Roxby 5th</name>
+ <description>Roxby 5th</description>
+ <Point>
+ <coordinates>-2.96502,53.40164,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Roxby 9th</name>
+ <description>Roxby 9th</description>
+ <Point>
+ <coordinates>-2.96511,53.40139,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Baltic Triangle</name>
+ <description>Baltic Triangle</description>
+ <Point>
+ <coordinates>-2.98224,53.3952,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark>
+ <name>Princes Avenue</name>
+ <description>Princes Avenue</description>
+ <Point>
+ <coordinates>-2.96037,53.39238,0</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>
